@@ -30,11 +30,13 @@
 💡 Open to collaborating on AI & ML Projects!
 ---
 
+
 ## 📊 GitHub Stats
 
-![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaletipothurajumeghana&show_icons=true&theme=radical)
+![Meghana's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaletipothurajumeghana&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaletipothurajumeghana&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaletipothurajumeghana&layout=compact&theme=tokyonight)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F70000&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Enthusiast;Computer+Vision+Developer)](https://git.io/typing-svg)
 
